@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Notícias de Animes</h1>
+<h1 align="center">:file_cabinet: Site de vape </h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. Site para compras de produtos como vape, pods e etc.
