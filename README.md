@@ -31,4 +31,4 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site para co
 ## :dart: Status do projeto
 * Em processo de desenvolvimento.
 
-<a href="https://www.figma.com/file/6sX2aLGxJNYA3EfzdG5yNW/Untitled?t=gaUw0VoX46hEqm08-6">figma</a>
+
